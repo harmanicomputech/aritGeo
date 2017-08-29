@@ -1,0 +1,23 @@
+{
+  "name": "aritgeo",
+  "version": "1.0.0",
+  "description": "Bootcamp Day1 Project",
+  "main": "aritGeo.js",
+  "scripts": {
+    "test": "mocha test/aritGeotest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorharmani/aritGeo.git"
+  },
+  "author": "Amusan victor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorharmani/aritGeo/issues"
+  },
+  "homepage": "https://github.com/victorharmani/aritGeo#readme",
+  "dependencies": {
+    "chai": "^4.1.1",
+    "mocha": "^3.5.0"
+  }
+}
